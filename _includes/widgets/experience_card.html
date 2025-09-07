@@ -54,10 +54,10 @@
                                 {% for item in site.data.profile.experience %}
                                 <li>
                                     <div class="d-flex flex-wrap align-items-center">
-                                        <span >{{ item.name }}</span>
-                                        <span  class="small d-flex">{{ item.detail }}</span>
-                                        <span  class="d-flex ml-auto mt-auto no-break">{{ item.award }}</span>
-                                        <span  class="small d-flex ml-auto mt-auto no-break"><em>{{ item.date }}</em></span>
+                                        <div >{{ item.name }}</div>
+                                        <div  class="small d-flex">{{ item.detail }}</div>
+                                        <div  class="d-flex ml-auto mt-auto no-break">{{ item.award }}</div>
+                                        <div  class="small d-flex ml-auto mt-auto no-break"><em>{{ item.date }}</em></div>
                                     </div>
                                 </li>
                                 {% endfor %}

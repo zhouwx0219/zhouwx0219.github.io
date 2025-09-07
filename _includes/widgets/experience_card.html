@@ -47,7 +47,7 @@
 
                 <div class="row" data-masonry='{"percentPosition": true }'>
                     {% if site.data.profile.experience %}
-                    <div class="col-md-6">
+                    <div class="col-md-12">
                         <div class="mx-2 my-1">
                             <h6>Participated Research Projects</h6>
                             <ul class="list-unstyled mb-1">
@@ -56,7 +56,7 @@
                                     <div class="d-flex flex-wrap align-items-center">
                                         <span >{{ item.name }}</span>
                                         <span  class="small d-flex">{{ item.detail }}</span>
-                                        <span  class="d-flex">{{ item.award }}</span>
+                                        <span  class="d-flex ml-auto mt-auto no-break">{{ item.award }}</span>
                                         <span  class="small d-flex ml-auto mt-auto no-break"><em>{{ item.date }}</em></span>
                                     </div>
                                 </li>

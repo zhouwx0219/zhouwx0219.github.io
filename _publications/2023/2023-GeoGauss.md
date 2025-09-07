@@ -15,7 +15,7 @@ authors:
   - "<b style='font-weight:900;color:#000;'>Weixing Zhou*</b>"
   - Qi Peng
   - Zijie Zhang
-  - Yanfeng Zhang*
+  - Yanfeng Zhang
   - Yang Ren
   - Sihao Li
   - Guo Fu

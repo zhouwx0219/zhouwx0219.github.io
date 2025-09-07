@@ -33,11 +33,11 @@
                             <ul class="list-unstyled mb-1">
                                 {% for item in site.data.profile.experience %}
                                 <li>
-                                    <div class="d-flex">
+                                    <div class="d-flex flex-wrap align-items-center">
                                         <span >{{ item.name }}</span>
                                         <span  class="small d-flex">{{ item.detail }}</span>
                                         <span  class="small d-flex bold">{{ item.awards }}</span>
-                                        <span  class="ml-auto mt-auto no-break"><em>{{ item.date }}</em></span>
+                                        <span  class="small d-flex ml-auto mt-auto no-break"><em>{{ item.date }}</em></span>
                                     </div>
                                 </li>
                                 {% endfor %}

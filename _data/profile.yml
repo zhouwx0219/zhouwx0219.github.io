@@ -67,9 +67,13 @@ awards:
   date: 2017
 
 experience:
-- name: CCF-Huawei Database Innovation Research Program, Coordination-Free Distributed Transaction Processing Mechanism for Cross-Region High Availability (CCF-HuaweiDBIR2020009B), Outstanding Project of the Year
+- name: CCF-Huawei Database Innovation Research Program
+  detail: Coordination-Free Distributed Transaction Processing Mechanism for Cross-Region High Availability (CCF-HuaweiDBIR2020009B)
+  award: Outstanding Project of the Year
   date: Sep. 2020 - Apr. 2023
-- name: CCF-Huawei Huyanglin Fund, Multi-Master Cloud Native Database Based on Coordination-Free Strong Consistency Technology (CCF-HuaweiDBIR2022003B), Outstanding Project of the Year
+- name: CCF-Huawei Huyanglin Fund
+  detail: Multi-Master Cloud Native Database Based on Coordination-Free Strong Consistency Technology (CCF-HuaweiDBIR2022003B)
+  award: Outstanding Project of the Year
   date: Sep. 2022 - Jul. 2024
 - name: Huawei Database System Scalability Research
   date: Sep. 2024 - present

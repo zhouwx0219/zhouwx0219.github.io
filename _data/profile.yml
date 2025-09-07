@@ -9,8 +9,8 @@ positions:
 
 
 email:
-  - "zhouwx0219@foxmail.com"
-  - "zhouwx@stumail.neu.edu.cn"
+  - name: zhouwx0219@foxmail.com
+  - name: zhouwx@stumail.neu.edu.cn
 # cv_link: link-to-your-cv-file
 # gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: zhouwx0219
@@ -29,7 +29,7 @@ short_bio: >-
     Prof. <a href="https://neuzhangyf.github.io" target="_blank">Yanfeng Zhang</a>.
   </p>
   <p>
-    I’m interested in building distributed database systems, cloud-native databases, and transaction processing.
+    I’m interested in building distributed database systems, cloud-native databases, transaction processing, and new hardware for databases.
   </p>
 
 portrait_url: /assets/images/photos/zwx.jpg
@@ -66,3 +66,14 @@ awards:
 - name: ACM International Collegiate Programming Contest (Qingdao), Silver Medal
   date: 2017
 
+participated projects:
+- name: CCF-Huawei Database Innovation Research Program
+  detail: Coordination-Free Distributed Transaction Processing Mechanism for Cross-Region High Availability (CCF-HuaweiDBIR2020009B)
+  award: Outstanding Project of the Year
+  date: Sep. 2020 - Apr. 2023
+- name: CCF-Huawei Populus euphratica Forest Fund
+  detail: Multi-Master Cloud Native Database Based on Coordination-Free Strong Consistency Technology (CCF-HuaweiDBIR2022003B)
+  award: Outstanding Project of the Year
+  date: Sep. 2022 - Jul. 2024
+- name: Huawei Database System Scalability Research
+  date: Sep. 2024 - present

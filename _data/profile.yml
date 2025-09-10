@@ -67,6 +67,11 @@ awards:
   date: 2017
 
 experience:
+- name: National Key Research and Development Program of China
+  detail: Database Storage Systems Based on Non-Volatile Memory
+  date: Dec. 2023 – Nov. 2026
+- name: Huawei Database System Scalability Research
+  date: Sep. 2024 - Aug. 2027
 - name: CCF-Huawei Database Innovation Research Program
   detail: Coordination-Free Distributed Transaction Processing Mechanism for Cross-Region High Availability (CCF-HuaweiDBIR2020009B)
   award: Outstanding Project of the Year
@@ -75,5 +80,3 @@ experience:
   detail: Multi-Master Cloud Native Database Based on Coordination-Free Strong Consistency Technology (CCF-HuaweiDBIR2022003B)
   award: Outstanding Project of the Year
   date: Sep. 2022 - Jul. 2024
-- name: Huawei Database System Scalability Research
-  date: Sep. 2024 - present
